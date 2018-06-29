@@ -1,10 +1,10 @@
 # book-citys
 >书城项目
 >项目的展示：
-![image](https://typeofyh.github.io/bookCitys/page/home.png)
-![image](https://typeofyh.github.io/bookCitys/page/search.png)
-![image](https://typeofyh.github.io/bookCitys/page/detail.png)
-![image](https://typeofyh.github.io/bookCitys/page/read.png)
+![image](https://taomeier.github.io/book-citys/src/index.html)
+![image](https://taomeier.github.io/book-citys/src/page/search.png)
+![image](https://taomeier.github.io/book-citys/src/page/detail.png)
+
 
 >项目介绍:
 >此项目是一个为了方便,读书人士的需求,不论在何时何地,只要你想看就可以看,而且我们这款读书软件,在流量上的花费是很小的,也为大家在流量上有一个很大的节省!
